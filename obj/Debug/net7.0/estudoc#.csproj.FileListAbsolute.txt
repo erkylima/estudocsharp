@@ -1,0 +1,15 @@
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/bin/Debug/net7.0/estudoc#
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/bin/Debug/net7.0/estudoc#.deps.json
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/bin/Debug/net7.0/estudoc#.runtimeconfig.json
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/bin/Debug/net7.0/estudoc#.dll
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/bin/Debug/net7.0/estudoc#.pdb
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/estudoc#.csproj.AssemblyReference.cache
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/estudoc#.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/estudoc#.AssemblyInfoInputs.cache
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/estudoc#.AssemblyInfo.cs
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/estudoc#.csproj.CoreCompileInputs.cache
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/estudoc#.dll
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/refint/estudoc#.dll
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/estudoc#.pdb
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/estudoc#.genruntimeconfig.cache
+/mnt/ntfs/QBem/Desenvolvimento/backend/estudoc#/obj/Debug/net7.0/ref/estudoc#.dll
